@@ -21,7 +21,9 @@ This repository provides a Docker Compose setup for deploying Traefik (a modern 
 2. Update the docker-compose.yml file:
 - Replace your domain for the Portainer Dashboard.
 
-3. Start the Portainer service:  
+3. See [this repo](https://github.com/aaykacc/traefik-docker) for traefik installation
+
+4. Start the Portainer service:  
    Start the Portainer service using Docker Compose:
 
    ```bash
